@@ -4,7 +4,7 @@
 ## Overview
  This project is a web application developed using Streamlit and Python, designed to predict customer churn for telecommunications companies. By leveraging machine learning models, the app provides insights into customer behavior, enabling businesses to take proactive measures to retain their customers.
 - Access the deployed app on [Render](https://mlm-with-guis.onrender.com/)
-- Read more on this project on [Meduim](https://medium.com/@safowaabenedicta/embedding-machine-learning-models-in-web-apps-2913d2c31533)
+
 
 ## **Features**
 ![.](https://github.com/Safowaa/MLM-with-GUIs/blob/master/readmePictures/Screenshot%202024-09-21%20163448.png)
