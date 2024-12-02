@@ -87,7 +87,7 @@
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Safowaa/MLM-with-GUIs.git
+git clone [https://github.com/SylviaEleme/MLM_With_GUIs.git]
 ```
 
 #### Navigate to the project directory:
